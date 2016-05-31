@@ -20,7 +20,7 @@ func main() {
 
 // connect to the mysql instance
 
-    db, err := sql.Open("mysql", "valerie:password@tcp(192.168.56.68:3306)/")
+    db, err := sql.Open("mysql", "valerie:password@tcp(localhost:3306)/")
 
     if err != nil {
         log.Fatal(err)
