@@ -15,6 +15,8 @@ export GOPATH=/usr/local/bin
 
 (do "which go" to find your path)
 
-## vgMemory
+## Descriptions
+
+###vgMemory
 
 I don't want to use my calculator to do this anymore.
